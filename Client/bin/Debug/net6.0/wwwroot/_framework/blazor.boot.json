@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-HG+bnQWiEA1\/F6r\/8GQWduuLOyXyKN99vVSdpwio0zA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-aJkTDmfPVpkW57SUuoxuimwnL7hXtTTmrPu2e\/VSnJU=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-u9dpNv+WDt12I+80FSS8i0N1ilvLsQQYe6+53qDxg8A=",
@@ -196,15 +197,15 @@
       "mscorlib.dll": "sha256-MnMyZHtcymf0sLxXeFBbQZVsdNdxT0GXJaa9t3ZdSek=",
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
-      "Hoalu.Shared.dll": "sha256-6h17v\/VmhwfUAQuMQwJx8MPpCO+Z7goaZL+JkKdtgkQ=",
-      "Hoalu.Client.dll": "sha256-teohsdtFHFY\/z2fN862pjPVLee65jK8Vy2tNQuiwK9Y="
+      "Hoalu.Shared.dll": "sha256-UQa6I8tRJzwOcdPNgz7t9KEIKSK5KF6eFb1b+expwo4=",
+      "Hoalu.Client.dll": "sha256-4KL3DBRWbyDlOhGplPPaHB3JIrSD8Fgi2gAGVx4SEqk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Hoalu.Shared.pdb": "sha256-Gbcmahx\/kq+6SelfgoAUAwr8\/5C0ZEZ8DnaLXHG9rqg=",
-      "Hoalu.Client.pdb": "sha256-MxQDK2mylVX+zrxqQjl0TCfMFFJbF4aGyvZMxYU69Q4="
+      "Hoalu.Shared.pdb": "sha256-0ZKZAvAzTX0WdmOtEYHsnPW8bkvlA3wKRJCS07OPCO4=",
+      "Hoalu.Client.pdb": "sha256-IokqeXbTIcwETweCIce\/1MjlDc6v46JYjbE\/ksNHJBQ="
     },
     "runtime": {
       "dotnet.6.0.9.bqrcgpzq6v.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",

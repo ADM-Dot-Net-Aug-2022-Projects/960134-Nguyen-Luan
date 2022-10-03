@@ -27,5 +27,12 @@
     <ProjectReference Include="..\Shared\Hoalu.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\AddressService\" />
+    <Folder Include="Services\AuthService\" />
+    <Folder Include="Services\OrderService\" />
+    <Folder Include="Services\PaymentService\" />
+  </ItemGroup>
+
 
 </Project>

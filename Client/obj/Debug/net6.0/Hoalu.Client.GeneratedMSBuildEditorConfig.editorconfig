@@ -11,45 +11,61 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Hoalu.Client
 build_property.RootNamespace = Hoalu.Client
-build_property.ProjectDir = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Hoalu\Client\
+build_property.ProjectDir = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Hoalu\Client
+build_property.MSBuildProjectDirectory = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/App.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Pages/FetchData.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Pages/Marketplace.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Pages/Marketplace.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFya2V0cGxhY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/CartCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcnRDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/_Imports.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Shared/MainLayout.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-91ljzwtqhb
+
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4xi67hby7d
+
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9b6shyex7v
+
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/HomeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e5cf5wgvb7
+
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lo2kjxdywq
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Shared/NavMenu.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jgabyx25v1
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Hoalu/Client/Shared/ProductList.razor]
+[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Client/Shared/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-sxlgwh0lcs

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HOF5mtnsLPwQyTSv+BSttWN7qL8xR1totW9jeaerHgMA/4vKnOroHdRAovA6ckKQ6NhwGmYbdd367HPCNj5m7A==",
+  "dgSpecHash": "wBnUu9il+MgSySLGEUIK/+ZsDKttEklL4yvF9lJxW9+PA66rXpCZZ2ONxSlbdN4Lq2RMj++x4htRtiRPWCCF/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\960134\\OneDrive - Cognizant\\Documents\\960134-Nguyen-Luan\\Hoalu\\Server\\Hoalu.Server.csproj",
+  "projectFilePath": "C:\\Users\\960134\\OneDrive - Cognizant\\Documents\\960134-Nguyen-Luan\\Server\\Hoalu.Server.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\960134\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

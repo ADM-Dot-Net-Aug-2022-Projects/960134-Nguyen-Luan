@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cAyyif0BRGWDbT2IP6LN9JbscQgk/08fO7DjYMVkwSWW9CpUmnkssVfqm6fue5In6jLY9ayWC4z0kwTntKSj2g==",
+  "dgSpecHash": "Jd7Uo/Y5BDH06ZQH9L9l7Y9EEPHPbJf9Ft1Mch4WlYHBxwHPA2c5mH/fMkKyggqsfSnsHiZ67m4xLW3aa/5byA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\960134\\OneDrive - Cognizant\\Documents\\960134-Nguyen-Luan\\Hoalu\\Client\\Hoalu.Client.csproj",
+  "projectFilePath": "C:\\Users\\960134\\OneDrive - Cognizant\\Documents\\960134-Nguyen-Luan\\Client\\Hoalu.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\960134\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
     "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.9\\microsoft.aspnetcore.components.analyzers.6.0.9.nupkg.sha512",

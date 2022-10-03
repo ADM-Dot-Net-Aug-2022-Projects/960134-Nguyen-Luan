@@ -1,25 +1,21 @@
 ﻿.media-img {
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 150px;
+    max-width: 150px;
     border-radius: 6px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     transition: transform .2s;
 }
 .media-img:hover{
-    transform: scale(1.1);
-}
-.media {
-   display: flex;
-   align-items: flex-start;
+    transform: scale(1.2);
 }
 
-.media-body{
-    margin: 5px;
-    flex: 1;
-}
 .media-img-wrapper{
     width: 200px;
     text-align: center;
+}
+.page-selection {
+    margin-right: 15px;
+    margin-bottom: 30px;
 }
 
 .price {

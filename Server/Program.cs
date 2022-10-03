@@ -1,6 +1,9 @@
 global using Hoalu.Shared;
 global using Microsoft.EntityFrameworkCore;
 global using Hoalu.Server.Data;
+global using Hoalu.Server.Services.ProductService;
+global using Hoalu.Server.Services.CategoryService;
+global using Hoalu.Server.Services.CartService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +16,10 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICartService, CartService>();
 
 var app = builder.Build();
 
