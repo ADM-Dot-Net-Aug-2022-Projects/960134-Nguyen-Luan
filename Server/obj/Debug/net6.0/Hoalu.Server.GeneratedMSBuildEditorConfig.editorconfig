@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hoalu.Server
 build_property.RootNamespace = Hoalu.Server
-build_property.ProjectDir = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Server\
+build_property.ProjectDir = C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Server
+build_property.MSBuildProjectDirectory = C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/960134/OneDrive - Cognizant/Documents/960134-Nguyen-Luan/Server/Pages/Error.cshtml]
+[C:/Users/960134/source/.Net Test/960134-Nguyen-Luan/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

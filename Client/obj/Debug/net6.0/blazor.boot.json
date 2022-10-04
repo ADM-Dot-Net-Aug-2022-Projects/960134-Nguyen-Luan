@@ -197,15 +197,15 @@
       "mscorlib.dll": "sha256-MnMyZHtcymf0sLxXeFBbQZVsdNdxT0GXJaa9t3ZdSek=",
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
-      "Hoalu.Shared.dll": "sha256-UQa6I8tRJzwOcdPNgz7t9KEIKSK5KF6eFb1b+expwo4=",
-      "Hoalu.Client.dll": "sha256-4KL3DBRWbyDlOhGplPPaHB3JIrSD8Fgi2gAGVx4SEqk="
+      "Hoalu.Shared.dll": "sha256-WcQYjIKdr1CITKcEb+WHyWRZOb4dkEvLx8k10da5t78=",
+      "Hoalu.Client.dll": "sha256-f68NWtN4RG0Pid913fC0gbOcFXt5bmayA95mDiub57Y="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Hoalu.Shared.pdb": "sha256-0ZKZAvAzTX0WdmOtEYHsnPW8bkvlA3wKRJCS07OPCO4=",
-      "Hoalu.Client.pdb": "sha256-IokqeXbTIcwETweCIce\/1MjlDc6v46JYjbE\/ksNHJBQ="
+      "Hoalu.Shared.pdb": "sha256-eCEGnfBdtpDAh9n9ULfibD0smPwghLVHxKRxKKsXE+Y=",
+      "Hoalu.Client.pdb": "sha256-KWe6w9ATA4BKn6ccXDFv4PsQBEVzT80pne\/1RDEv9k8="
     },
     "runtime": {
       "dotnet.6.0.9.bqrcgpzq6v.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",

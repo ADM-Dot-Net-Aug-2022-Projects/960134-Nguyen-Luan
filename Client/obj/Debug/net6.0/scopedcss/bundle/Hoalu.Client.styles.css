@@ -202,7 +202,7 @@ main[b-lo2kjxdywq] {
 }
 
 .nav-item[b-jgabyx25v1]  a:hover {
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.5);
     color: white;
 }
 
@@ -256,4 +256,20 @@ main[b-lo2kjxdywq] {
         width: 100%;
         height: auto;
     }
+}
+/* /Shared/UserButton.razor.rz.scp.css */
+.show-menu[b-q1eo6kyovu] {
+    display: block;
+}
+
+.user-button[b-q1eo6kyovu] {
+    margin-left: .5em;
+}
+
+.top-row a[b-q1eo6kyovu] {
+    margin-left: 0;
+}
+
+.dropdown-item:hover[b-q1eo6kyovu] {
+    background-color: white;
 }

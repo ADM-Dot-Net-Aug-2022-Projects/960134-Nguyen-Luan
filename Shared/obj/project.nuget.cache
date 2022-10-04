@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "/SSeRtXgeHKgFpb0voFgGQEky45zWLxeJwiLUUxc1U7pTazUVd8QXIudLbn6U0GxnjKI/jY68V/uREKHGrnMkw==",
+  "dgSpecHash": "GkyFQ+buggEqXYgPdkRYFW/Kopew6hdV6J2N8RXI4MjEtG8x6lFtu/5hz9jd4t7fohdr/mUtDO8aEYlPIkoK6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\960134\\OneDrive - Cognizant\\Documents\\960134-Nguyen-Luan\\Shared\\Hoalu.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Shared\\Hoalu.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.9\\microsoft.aspnetcore.components.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.9\\microsoft.aspnetcore.components.authorization.6.0.9.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.9\\microsoft.aspnetcore.metadata.6.0.9.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\960134\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
