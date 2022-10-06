@@ -1,0 +1,30 @@
+.container[b-0iespl4h81] {
+    display: flex;
+    padding: 6px;
+    border: 1px solid;
+    border-color: lightgray;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.image-wrapper[b-0iespl4h81] {
+    width: 150px;
+    text-align: center;
+}
+
+.image[b-0iespl4h81] {
+    max-height: 150px;
+    max-width: 150px;
+    padding: 6px;
+}
+
+.details[b-0iespl4h81] {
+    flex-grow: 1;
+    padding: 6px;
+}
+
+.order-price[b-0iespl4h81] {
+    font-weight: 600;
+    font-size: 1.2em;
+    text-align: right;
+}

@@ -1,7 +1,8 @@
 ﻿@inject ICategoryService CategoryService
 
-<div class="top-row ps-3 navbar navbar-dark navbar-toggler-wrapper">
+<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
+        <a class="navbar-brand" href="">Hoalu</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -9,15 +10,15 @@
 </div>
 
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
-    <nav class="flex-nav">
-        <div class="nav-item px-2">
-            <NavLink class="nav-link" href="marketplace">
-                Marketplace
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                Home
             </NavLink>
         </div>
         @foreach (var category in CategoryService.Categories)
         {
-            <div class="nav-item px-2">
+            <div class="nav-item px-3">
                 <NavLink class="nav-link" href="@category.Url">
                     @category.Name
                 </NavLink>
@@ -35,8 +36,9 @@
     {
         collapseNavMenu = !collapseNavMenu;
     }
+
     protected override async Task OnInitializedAsync()
     {
-        await CategoryService.GetCagetories();
+        await CategoryService.GetCategories();
     }
 }

@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Hoalu.Shared
 {
-
     public class Address
     {
         public int Id { get; set; }
@@ -19,5 +18,4 @@ namespace Hoalu.Shared
         public string Zip { get; set; } = string.Empty;
         public string Country { get; set; } = string.Empty;
     }
-   
 }

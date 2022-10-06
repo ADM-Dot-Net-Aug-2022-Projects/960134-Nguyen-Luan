@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Components.Authorization;
-
-namespace Hoalu.Client.Services.AuthService
+﻿namespace Hoalu.Client.Services.AuthService
 {
     public class AuthService : IAuthService
     {

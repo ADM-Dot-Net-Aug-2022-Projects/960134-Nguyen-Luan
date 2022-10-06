@@ -1,48 +1,12 @@
-C:\Users\960134\source\repos\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.deps.json
-C:\Users\960134\source\repos\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\source\repos\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.AssemblyReference.cache
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfoInputs.cache
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfo.cs
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.CoreCompileInputs.cache
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\refint\Hoalu.Shared.dll
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\source\repos\Hoalu\Shared\obj\Debug\net6.0\ref\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.deps.json
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.AssemblyReference.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfoInputs.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfo.cs
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.CoreCompileInputs.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\refint\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\OneDrive - Cognizant\Documents\Hoalu\Shared\obj\Debug\net6.0\ref\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.deps.json
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.AssemblyReference.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfoInputs.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfo.cs
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.CoreCompileInputs.cache
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\refint\Hoalu.Shared.dll
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\OneDrive - Cognizant\Documents\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\ref\Hoalu.Shared.dll
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.deps.json
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\bin\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.AssemblyReference.cache
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfoInputs.cache
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfo.cs
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.CoreCompileInputs.cache
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.dll
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\refint\Hoalu.Shared.dll
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\Hoalu.Shared.pdb
-C:\Users\960134\source\.Net Test\960134-Nguyen-Luan\Shared\obj\Debug\net6.0\ref\Hoalu.Shared.dll
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.deps.json
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.dll
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\bin\Debug\net6.0\Hoalu.Shared.pdb
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.AssemblyReference.cache
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfoInputs.cache
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.AssemblyInfo.cs
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.dll
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\refint\Hoalu.Shared.dll
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\Hoalu.Shared.pdb
+C:\Users\960134\source\ADM Proj\Hoalu\Shared\obj\Debug\net6.0\ref\Hoalu.Shared.dll

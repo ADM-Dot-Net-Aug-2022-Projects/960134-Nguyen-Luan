@@ -1,0 +1,33 @@
+.container[b-6manu1u22d] {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    justify-content: center;
+}
+
+img[b-6manu1u22d] {
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+    transition: transform .2s;
+    margin-bottom: 10px;
+}
+
+    img:hover[b-6manu1u22d] {
+        transform: scale(1.1) rotate(5deg);
+    }
+
+.featured-product[b-6manu1u22d] {
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    max-width: 225px;
+}
+
+@media (max-width: 1023.98px) {
+    .container[b-6manu1u22d] {
+        justify-content: flex-start;
+    }
+}

@@ -23,7 +23,6 @@ namespace Hoalu.Server.Controllers
                 new User
                 {
                     Email = request.Email
-
                 },
                 request.Password);
 

@@ -466,6 +466,29 @@
           }
         }
       },
+      "MudBlazor/6.0.16": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.9",
+          "Microsoft.AspNetCore.Components.Web": "6.0.9"
+        },
+        "compile": {
+          "lib/net6.0/MudBlazor.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MudBlazor.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/MudBlazor.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/MudBlazor.props": {}
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -574,9 +597,6 @@
       "Hoalu.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Authorization": "6.0.9"
-        },
         "compile": {
           "bin/placeholder/Hoalu.Shared.dll": {}
         },
@@ -1050,6 +1070,29 @@
           }
         }
       },
+      "MudBlazor/6.0.16": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.9",
+          "Microsoft.AspNetCore.Components.Web": "6.0.9"
+        },
+        "compile": {
+          "lib/net6.0/MudBlazor.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MudBlazor.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/MudBlazor.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/MudBlazor.props": {}
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -1152,9 +1195,6 @@
       "Hoalu.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Authorization": "6.0.9"
-        },
         "compile": {
           "bin/placeholder/Hoalu.Shared.dll": {}
         },
@@ -1824,6 +1864,27 @@
         "microsoft.net.http.headers.nuspec"
       ]
     },
+    "MudBlazor/6.0.16": {
+      "sha512": "GTHTXtNdHnjE5QvLwScwz4YOevlAmKHx3fkFQWeO3Yj52P4FWdTSFkVxtAXBHlruWsz92pjSbOBStZ/nY/vMyg==",
+      "type": "package",
+      "path": "mudblazor/6.0.16",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Nuget.png",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/MudBlazor.props",
+        "buildMultiTargeting/MudBlazor.props",
+        "buildTransitive/MudBlazor.props",
+        "lib/net6.0/MudBlazor.dll",
+        "lib/net6.0/MudBlazor.xml",
+        "mudblazor.6.0.16.nupkg.sha512",
+        "mudblazor.nuspec",
+        "staticwebassets/MudBlazor.min.css",
+        "staticwebassets/MudBlazor.min.js"
+      ]
+    },
     "System.Buffers/4.5.0": {
       "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
@@ -2022,7 +2083,8 @@
       "Microsoft.AspNetCore.Components.Authorization >= 6.0.9",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.9",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.9",
-      "Microsoft.AspNetCore.WebUtilities >= 2.2.0"
+      "Microsoft.AspNetCore.WebUtilities >= 2.2.0",
+      "MudBlazor >= 6.0.16"
     ]
   },
   "packageFolders": {
@@ -2032,11 +2094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Client\\Hoalu.Client.csproj",
+      "projectUniqueName": "C:\\Users\\960134\\source\\ADM Proj\\Hoalu\\Client\\Hoalu.Client.csproj",
       "projectName": "Hoalu.Client",
-      "projectPath": "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Client\\Hoalu.Client.csproj",
+      "projectPath": "C:\\Users\\960134\\source\\ADM Proj\\Hoalu\\Client\\Hoalu.Client.csproj",
       "packagesPath": "C:\\Users\\960134\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Client\\obj\\",
+      "outputPath": "C:\\Users\\960134\\source\\ADM Proj\\Hoalu\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2058,8 +2120,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Shared\\Hoalu.Shared.csproj": {
-              "projectPath": "C:\\Users\\960134\\source\\.Net Test\\960134-Nguyen-Luan\\Shared\\Hoalu.Shared.csproj"
+            "C:\\Users\\960134\\source\\ADM Proj\\Hoalu\\Shared\\Hoalu.Shared.csproj": {
+              "projectPath": "C:\\Users\\960134\\source\\ADM Proj\\Hoalu\\Shared\\Hoalu.Shared.csproj"
             }
           }
         }
@@ -2094,6 +2156,10 @@
           "Microsoft.AspNetCore.WebUtilities": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "MudBlazor": {
+            "target": "Package",
+            "version": "[6.0.16, )"
           }
         },
         "imports": [

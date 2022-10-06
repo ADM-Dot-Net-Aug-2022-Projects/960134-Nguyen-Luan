@@ -1,8 +1,5 @@
 .home-button[b-e5cf5wgvb7] {
-    display: flex;
-    color: floralwhite;
+    white-space: nowrap;
     margin-right: 10px;
-}
-.oi[b-e5cf5wgvb7]{
-    margin-right: 5px;
+    transform: rotate(-5deg);
 }

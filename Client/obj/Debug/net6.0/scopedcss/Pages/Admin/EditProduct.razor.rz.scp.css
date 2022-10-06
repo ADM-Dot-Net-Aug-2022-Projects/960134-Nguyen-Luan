@@ -1,0 +1,26 @@
+img[b-3onahhmgxn] {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.row[b-3onahhmgxn] {
+    display: flex;
+    padding: 6px;
+}
+
+.col[b-3onahhmgxn] {
+    flex: 1;
+}
+
+.header[b-3onahhmgxn] {
+    display: flex;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+}
+
+.col-visible[b-3onahhmgxn] {
+    text-align: center;
+}
