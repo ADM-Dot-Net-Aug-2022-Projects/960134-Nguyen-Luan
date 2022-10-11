@@ -9,13 +9,13 @@ namespace Hoalu.Server.Services.PaymentService
         private readonly IAuthService _authService;
         private readonly IOrderService _orderService;
 
-        const string secret = "whsec_cq1WH9CX9U1zxU9EpbBVvWOhfb6e5ysR";
+        const string secret = "whsec_8b301dd32a7755f12e0b20a2d49d45b8d297baba098d412ceacd172f22883a67";
 
         public PaymentService(ICartService cartService,
             IAuthService authService,
             IOrderService orderService)
         {
-            StripeConfiguration.ApiKey = "sk_test_51HnFFuJWja1dketA1LY3VQds3XWpByD5GE8laKrxyNldWKnXXdktvITJiG3PYNDMwpSkrAv33d7JjvHDEUGPPo2E00vkDMlVIb";
+            StripeConfiguration.ApiKey = "sk_test_51LrP1fIxSUmD0UcwW88OmcMkAuDwUYCtoQ2LPqXA8Sc3DeCBgxK8upbplCGv6yJAUT2jL8HIsJDogozVxSZWJPxy00NWrXtyP1";
 
             _cartService = cartService;
             _authService = authService;
@@ -55,8 +55,8 @@ namespace Hoalu.Server.Services.PaymentService
                 },
                 LineItems = lineItems,
                 Mode = "payment",
-                SuccessUrl = "https://localhost:7226/order-success",
-                CancelUrl = "https://localhost:7226/cart"
+                SuccessUrl = "https://localhost:7231/order-success",
+                CancelUrl = "https://localhost:7231/cart"
             };
 
             var service = new SessionService();
